@@ -33,3 +33,37 @@ This is the mode you use to type or **insert** text.
 | <kbd>o</kbd> | new line **below** the current line. | <kbd>O</kbd> | new line **above** the current line. |
 
 
+## Saving files
+
+* Saving changes in file
+
+Go to `command mode` by <kbd>ESC</kbd> then type the commant `:wq`
+
+![Image of write and quit in vi](https://github.com/ds997/miniproject1-601-ds/blob/master/resources/write-quit-vi.png)
+
+
+| Command | Description |
+| ------ | ----------- |
+| `:wq` or `ZZ` | Save the contents & quit vi |
+
+* Without saving changes
+
+Go to `command mode` by <kbd>ESC</kbd> then type the commant `:wq`   
+
+| Command | Description |
+| ------ | ----------- |
+| `:q!` | Quit vi without saving |
+
+
+## Redo and Undo
+
+To Undo or reset multiple/single change or reset use the following commands:
+
+| Command | Description |
+| ------ | ----------- |
+| `u` | undo changes |
+| `:u` | undo one change |
+| <kbd>CTRL</kbd>+<kbd>R</kbd> | redo change |
+| `.` | repeat last change |
+
+
