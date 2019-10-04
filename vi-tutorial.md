@@ -67,3 +67,17 @@ To Undo or reset multiple/single change or reset use the following commands:
 | `.` | repeat last change |
 
 
+## Cut and paste
+
+To copy(Yank) or paste in vi use the following code:
+
+| Command | Description |
+| ------ | ----------- |
+| `yy` | yank a line |
+| `yw` | yank word |
+| `y$` | yank to end of line |
+
+## Contributors
+**Divyanshu Sachdeva - ds997**
+
+
