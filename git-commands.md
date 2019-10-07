@@ -52,3 +52,16 @@ The checkout command lets you navigate between the branches created by git branc
 working directory to match the version stored in that branch, and it tells Git to record all new commits on that branch.
 
 ![git checkout](https://user-images.githubusercontent.com/54865943/66273372-3dde2e00-e841-11e9-8f57-47eed5ea8829.png)
+
+## Push
+
+ Git push is used to push commits made on your local branch to a remote repository.
+ 
+![push](https://user-images.githubusercontent.com/54865943/66275761-d2548a80-e859-11e9-8c64-40a075394cdf.png)
+ 
+## Pull
+
+Pull requests let you tell others about changes you've pushed to a GitHub repository. Once a pull request is sent,interested
+parties can review the set of changes,discuss potential modifications, and even push follow-up commits if necessary.
+
+![pull](https://user-images.githubusercontent.com/54865943/66275772-edbf9580-e859-11e9-9e8c-0504996131fc.png)
