@@ -27,3 +27,18 @@ git flow feature start feature_branch
 ## Finishing a feature branch
 When you’re done with the development work on the feature, the next step is to merge the feature_branch into develop.
 
+Without the git-flow extensions:
+git checkout develop
+git merge feature_branch
+
+Using the git-flow extensions:
+git flow feature finish feature_branch
+Release Branches
+
+## Source
+* https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
+
+# Contributer
+
+## Jasman Preet Singh-js2547
+
