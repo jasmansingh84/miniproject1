@@ -22,5 +22,5 @@
 - [x] Added Visual Editor modes (command mode & insert mode) **ds997**
 - [x] Added yank/paste, copying and saving text in vi **ds997**
 - [x] Added Basic Linux Commands **ds997**
-- [x] Add Git commands **js2547**
-- [x] Add Git commands **js2547**
+- [x] Added Git commands **js2547**
+- [x] Added Git flow workflow **js2547**
