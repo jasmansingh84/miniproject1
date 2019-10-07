@@ -11,6 +11,8 @@
 1. [How the usage of Git, Docker, Automated Testing, and Continuous Integration can improve the productivity and competitiveness of a company.](ci-cd-usage.md)
 2. [VI - Visual Editor](vi-tutorial.md)
 3. [Linux Commands](linux-commands.md)
+4. [Git Commands](git-commands.md)
+5. [Git Flow](git-flow.md)
 
 
 ## Change Log
@@ -20,4 +22,5 @@
 - [x] Added Visual Editor modes (command mode & insert mode) **ds997**
 - [x] Added yank/paste, copying and saving text in vi **ds997**
 - [x] Added Basic Linux Commands **ds997**
-- [ ] Add Git commands **js2547**
+- [x] Add Git commands **js2547**
+- [x] Add Git commands **js2547**
