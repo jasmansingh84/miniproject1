@@ -65,3 +65,16 @@ Pull requests let you tell others about changes you've pushed to a GitHub reposi
 parties can review the set of changes,discuss potential modifications, and even push follow-up commits if necessary.
 
 ![pull](https://user-images.githubusercontent.com/54865943/66275772-edbf9580-e859-11e9-9e8c-0504996131fc.png)
+
+## Remote Add
+
+To add a new remote, use the git remote add command on the terminal, in the directory your repository. 
+
+![git add](https://user-images.githubusercontent.com/54865943/66276257-50fff680-e85f-11e9-8f49-d6945af3dc30.png)
+
+## Remote Remove
+
+Use the git remote rm command to remove a remote URL from your repository. The git remote rm command takes one argument.
+
+![remove](https://user-images.githubusercontent.com/54865943/66276250-447b9e00-e85f-11e9-85de-d10497c78aaa.png)
+
