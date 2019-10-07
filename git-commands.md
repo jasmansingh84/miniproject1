@@ -78,3 +78,37 @@ Use the git remote rm command to remove a remote URL from your repository. The g
 
 ![remove](https://user-images.githubusercontent.com/54865943/66276250-447b9e00-e85f-11e9-85de-d10497c78aaa.png)
 
+## Remote Show
+
+To see which remote servers you have configured, you can run the git remote command. It lists the shortnames of each 
+remote handle you’ve specified.
+
+![show](https://user-images.githubusercontent.com/54865943/66275744-b05b0800-e859-11e9-92a0-2d4d60560a87.png)
+
+
+## Status
+
+The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged,
+which haven't,and which files aren't being tracked by Git.
+
+![status](https://user-images.githubusercontent.com/54865943/66276255-4d6c6f80-e85f-11e9-92cc-51103a5c0d64.png)
+
+## Master Branch
+
+The main branch — the one where all changes eventually get merged back into, and is called master.
+
+![master branch](https://user-images.githubusercontent.com/54865943/66276252-47768e80-e85f-11e9-93ec-e922c6a60e08.png)
+
+## Sources
+
+* https://git-scm.com/book/en/v2/Git-Basics-Working-with-Remotes
+* https://help.github.com/en
+* https://git-scm.com/docs/git-pull
+* https://thenewstack.io/dont-mess-with-the-master-working-with-branches-in-git-and-github/
+
+# Contributer
+
+## Jasman Preet Singh-js2547
+
+
+
